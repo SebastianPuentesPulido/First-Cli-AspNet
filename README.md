@@ -7,7 +7,7 @@
 # Download Code And Instaling  :hammer_and_wrench:
 This project obviously requires dotnet core, only this program is necessary, Visual Studio is not necessary, it is only for testing but you can modify, improve, compile it and you are totally free to do whatever you want with the code.
 ```
-$ Git Clone https://github.com/SebastianPuentesPulido/MyCli-C#.git
+$ Git Clone https://github.com/SebastianPuentesPulido/First-Cli-AspNet.git
 $ cd MyCli-C#
 $ dotnet restore
 $ dotner run
